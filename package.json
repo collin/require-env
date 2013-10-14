@@ -1,0 +1,22 @@
+{
+  "name": "process-exploder",
+  "version": "1.0.0",
+  "description": "Require some environment variables or EXPLODE!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "collintmiller",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "colors": "~0.6.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/collin/require-env.git"
+  },
+  "bugs": {
+    "url": "https://github.com/collin/require-env/issues"
+  }
+}
